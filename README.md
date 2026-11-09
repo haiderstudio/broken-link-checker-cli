@@ -27,7 +27,11 @@ Anyone who maintains docs, a README collection, or a static site and wants a bro
 
 ## Install
 
-Python standard library only — no packages to download. Clone the repo and run it in place:
+```sh
+pip install broken-link-checker-cli
+```
+
+Or clone from GitHub instead (Python standard library only, no packages to download):
 
 ```sh
 git clone https://github.com/haiderstudio/broken-link-checker-cli.git
