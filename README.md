@@ -2,7 +2,7 @@
 
 Check links in Markdown and HTML docs against real pages — and tell page failures apart from anchor failures.
 
-[![CI](https://github.com/hai02487/broken-link-checker-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/hai02487/broken-link-checker-cli/actions/workflows/ci.yml) [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-yellow.svg)](LICENSE)
+[![CI](https://github.com/haiderstudio/broken-link-checker-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/haiderstudio/broken-link-checker-cli/actions/workflows/ci.yml) [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-yellow.svg)](LICENSE)
 
 ## What it does
 
@@ -30,7 +30,7 @@ Anyone who maintains docs, a README collection, or a static site and wants a bro
 Python standard library only — no packages to download. Clone the repo and run it in place:
 
 ```sh
-git clone https://github.com/hai02487/broken-link-checker-cli.git
+git clone https://github.com/haiderstudio/broken-link-checker-cli.git
 cd broken-link-checker-cli
 ```
 
